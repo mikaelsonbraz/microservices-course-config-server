@@ -10,5 +10,5 @@ management:
           - '*'
 
 greeting-service:
-  greeting: "Bonjour"
-  default-value: "le monde!"
+  greeting: "Ciao"
+  default-value: "mondo"
